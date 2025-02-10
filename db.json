@@ -1,0 +1,19 @@
+{
+	"articles": [
+		{
+			"id": 1,
+			"title": "Hamilton starts his Ferrari life",
+			"content": "Lorem ipsum, dolor sit amet..."
+		},
+		{
+			"id": 2,
+			"title": "Williams testing",
+			"content": "Lorem ipsum, dolor sit amet..."
+		},
+		{
+			"id": 3,
+			"title": "McLaren's Title Bid",
+			"content": "Will McLaren capitalise on their momentum from last season and glinch a sequel to their long awaited constructors championship last year?"
+		}
+	]
+}
